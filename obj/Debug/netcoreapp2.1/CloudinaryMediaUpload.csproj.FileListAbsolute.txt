@@ -1,0 +1,11 @@
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\bin\Debug\netcoreapp2.1\CloudinaryMediaUpload.deps.json
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\bin\Debug\netcoreapp2.1\CloudinaryMediaUpload.runtimeconfig.json
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\bin\Debug\netcoreapp2.1\CloudinaryMediaUpload.runtimeconfig.dev.json
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\bin\Debug\netcoreapp2.1\CloudinaryMediaUpload.dll
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.csprojAssemblyReference.cache
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.csproj.CoreCompileInputs.cache
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.AssemblyInfoInputs.cache
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.AssemblyInfo.cs
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\bin\Debug\netcoreapp2.1\CloudinaryMediaUpload.pdb
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.dll
+C:\Users\SAAD CHOHAN\source\repos\CloudinaryMediaUpload\CloudinaryMediaUpload\obj\Debug\netcoreapp2.1\CloudinaryMediaUpload.pdb
